@@ -2,6 +2,9 @@
 
 A charming 2D platformer game built in Unity, featuring two levels, a main menu, a controls menu, a life system, and a coin collecting mechanic. Utilizes various SunnyLand asset packs and other resources for a vibrant and engaging gaming experience.
 
+![Preview image 1](https://github.com/Dxnixl664/Unity-2D-Platformer---Softie-s-Adventure/blob/main/image1.png)
+![Preview image 2](https://github.com/Dxnixl664/Unity-2D-Platformer---Softie-s-Adventure/blob/main/image2.png)
+
 # Softie's Adventure
 
 Welcome to Softie's Adventure, a charming and vibrant 2D platformer game built in Unity. Immerse yourself in two exciting levels, navigate through the controls menu, and enjoy a comprehensive life and coin system that adds depth and engagement to your gaming experience.
