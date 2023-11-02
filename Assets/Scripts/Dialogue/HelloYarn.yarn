@@ -1,0 +1,14 @@
+title: Start
+tags: 
+colorID: 0
+position: 0,0
+---
+Softie Bunny: Mr. Honey Paws, what brings you here unannounced?
+Mr. Honey Paws: Oh Softie, I do beg your pardon for this sudden visit, but I'm in quite a bit of a pickle. You see, I need your help.
+Softie Bunny: My help? With what, Mr. Honey Paws?
+Mr. Honey Paws: Well, it's my precious honey. The bees... they've stolen it!
+Softie Bunny: The bees stole your honey? But why?
+Mr. Honey Paws: I'm not sure, Softie. All I know is my pantry is bare and I miss my delicious honey. Can you help me get it back?
+Softie Bunny: Of course, Mr. Honey Paws. Let's find your honey!
+<<ChangeScene Loading>>
+===
