@@ -28,7 +28,7 @@ Make sure you have Unity installed on your computer. [Download Unity](https://un
 ### Installation
 
 1. Clone the repository: 
-```git clone https://github.com/yourusername/SunnyLandAdventure2D.git```
+```git clone https://github.com/Dxnixl664/Unity-2D-Platformer---Softie-s-Adventure.git```
 2. Open the project in Unity.
 3. Load the MainMenu scene and hit the play button to start the game.
 
