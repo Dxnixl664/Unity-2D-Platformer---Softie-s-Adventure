@@ -15,7 +15,7 @@ Welcome to Softie's Adventure, a charming and vibrant 2D platformer game built i
 - **Vibrant Artwork**: Utilizing SunnyLand Forest, SunnyLand Artwork, SunnyLand Enemies, SunnyLand Expansion Trees, Sunnyland House Props Expansion Pack, and Sunnyland Woods by Ansimuz, as well as additional artwork by Haney.
 - **Quality Sound Effects**: Enhanced gaming experience with RPG Essentials SFX by Leohpaz.
 - **TextMesh Pro**: For crisp and customizable text in the game.
-- 
+  
 ## Getting Started
 
 ### Prerequisites
