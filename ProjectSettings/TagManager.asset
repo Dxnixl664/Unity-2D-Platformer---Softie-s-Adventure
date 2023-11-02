@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Background
+  - World
+  - Ladder
+  - Bear
+  - Finish2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Finish
+  - Water
+  - UI
+  - bg-clouds
+  - bg-mountains
+  - bg-trees
+  - world
+  - ground
+  - Player
+  - Carrot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BGClouds
+    uniqueID: 1965076051
+    locked: 0
+  - name: BGMountains
+    uniqueID: 972507911
+    locked: 0
+  - name: BGTrees
+    uniqueID: 1100929083
+    locked: 0
+  - name: WProp
+    uniqueID: 3713498845
+    locked: 0
+  - name: WFloor
+    uniqueID: 2914054515
+    locked: 0
+  - name: Player
+    uniqueID: 305578573
+    locked: 0
+  - name: Platforms
+    uniqueID: 620272833
+    locked: 0
+  - name: WObstructions
+    uniqueID: 178276025
+    locked: 0
